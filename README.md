@@ -13,7 +13,7 @@ I am a passionate data enthusiast with a keen eye for detail and a penchant for 
 
 ###
 
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+<img align="right" height="300" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
 ###
 
