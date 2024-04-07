@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Shanthan Kumar Bine 
-  
+
 🎓 Master's in Information Technology Management, University of Wisconsin-Milwaukee
 
 🔍 Specialization: AI and Data Analytics
@@ -61,7 +61,7 @@ Shanthankumarb@gmail.com </h2>
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/Shanthankumarb@gmail.com">
+  <a href="Shanthankumarb@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shanthan-kumar-bine-49b6582b8/">
