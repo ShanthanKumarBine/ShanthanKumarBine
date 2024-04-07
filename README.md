@@ -11,6 +11,13 @@ Hi 👋! My name is Shanthan Kumar Bine
 
 I am a passionate data enthusiast with a keen eye for detail and a penchant for analytics. With a solid academic foundation in Information Technology Management, specializing in AI and Data Analytics from the esteemed University of Wisconsin-Milwaukee, I bring a wealth of knowledge and expertise to the table.
 
+###
+
+<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+
+###
+
+
 🔍 Key Skills:
 
 <ul>
@@ -41,11 +48,6 @@ Shanthan Kumar Bine
 
 Shanthankumarb@gmail.com </h2>
 
-###
-
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
