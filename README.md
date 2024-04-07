@@ -2,7 +2,8 @@
   
 Hi 👋! My name is Shanthan Kumar Bine 
 
-🎓 Master's in Information Technology Management, University of Wisconsin-Milwaukee
+🎓 Master's in Information Technology Management,  
+    University of Wisconsin-Milwaukee
 
 🔍 Specialization: AI and Data Analytics
 
@@ -12,15 +13,17 @@ I am a passionate data enthusiast with a keen eye for detail and a penchant for 
 
 🔍 Key Skills:
 
-Statistical Analysis
-Data Manipulation
-Python
-R
-SQL
-Power BI
-Tableau
-Microsoft Excel
-Microsoft Power Platform
+<ul>
+  <li>Statistical Analysis</li>
+  <li>Data Manipulation</li>
+  <li>Python</li>
+  <li>R</li>
+  <li>SQL</li>
+  <li>Power BI</li>
+  <li>Tableau</li>
+  <li>Microsoft Excel</li>
+  <li>Microsoft Power Platform</li>
+</ul>
 
 I thrive on converting complex data into actionable insights that drive strategic decision-making and foster organizational growth. My proficiency in Python, R, SQL, Power BI, and Tableau enables me to effectively analyze data and present it in insightful visualizations, empowering stakeholders to make informed decisions.
 
